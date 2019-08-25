@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/felipe-alves-reis/reacthub/static/js/main.4b17e2a7.chunk.js",
-    "main.js.map": "/felipe-alves-reis/reacthub/static/js/main.4b17e2a7.chunk.js.map",
-    "runtime~main.js": "/felipe-alves-reis/reacthub/static/js/runtime~main.a5f96942.js",
-    "runtime~main.js.map": "/felipe-alves-reis/reacthub/static/js/runtime~main.a5f96942.js.map",
-    "static/js/2.af7654ac.chunk.js": "/felipe-alves-reis/reacthub/static/js/2.af7654ac.chunk.js",
-    "static/js/2.af7654ac.chunk.js.map": "/felipe-alves-reis/reacthub/static/js/2.af7654ac.chunk.js.map",
-    "index.html": "/felipe-alves-reis/reacthub/index.html",
-    "precache-manifest.325dea0ea0a11b84a0085d6870ce0e2c.js": "/felipe-alves-reis/reacthub/precache-manifest.325dea0ea0a11b84a0085d6870ce0e2c.js",
-    "service-worker.js": "/felipe-alves-reis/reacthub/service-worker.js"
+    "main.js": "/reacthub/static/js/main.4b17e2a7.chunk.js",
+    "main.js.map": "/reacthub/static/js/main.4b17e2a7.chunk.js.map",
+    "runtime~main.js": "/reacthub/static/js/runtime~main.51d19585.js",
+    "runtime~main.js.map": "/reacthub/static/js/runtime~main.51d19585.js.map",
+    "static/js/2.e8d7a214.chunk.js": "/reacthub/static/js/2.e8d7a214.chunk.js",
+    "static/js/2.e8d7a214.chunk.js.map": "/reacthub/static/js/2.e8d7a214.chunk.js.map",
+    "index.html": "/reacthub/index.html",
+    "precache-manifest.44eb9ea3591d941cac5708161ce1c356.js": "/reacthub/precache-manifest.44eb9ea3591d941cac5708161ce1c356.js",
+    "service-worker.js": "/reacthub/service-worker.js"
   }
 }
